@@ -41,7 +41,8 @@ The simplicity, scalability, and flexibility of RESTful APIs have led to their a
 
 ## References
 
-- REST APIs design
-- About REST
-- REST API principles
-- REST API Example and Usage
+- [REST APIs design](https://www.altexsoft.com/blog/rest-api-design/)
+- [About REST](https://en.wikipedia.org/wiki/REST)
+- [REST API principles](https://www.ibm.com/topics/rest-apis#:~:text=IBM-,What%20is%20a%20REST%20API%3F,transfer%20(REST)%20architectural%20style.
+)
+- [REST API Example and Usage](https://blog.postman.com/rest-api-examples/)
