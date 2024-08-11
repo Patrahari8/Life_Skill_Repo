@@ -1,4 +1,7 @@
 # REST and Its Role in Web Architecture
+![image](https://nordicapis.com/wp-content/uploads/Web-Service-What-is-REST-API-And-How-Does-it-Work-1024x576.png)
+
+
 
 The World Wide Web's architecture was developed using the REST (Representational State Transfer) software architectural style as a reference. REST establishes a set of guidelines for the behavior of the architecture in distributed, Internet-scale hypermedia systems, like the Web. The REST architectural style places a strong emphasis on consistent interfaces, autonomous component deployment, scalable interactions between components, and building a layered architecture that encourages caching to lower perceived latency for users, upholds security, and encapsulates legacy systems.
 
@@ -21,7 +24,7 @@ Across the software industry, REST has been used to build dependable, stateless 
 
 For apps that need to do CRUD operations (create, read, update, and delete), a RESTful approach is preferable. A content management system (CMS) is an excellent illustration, as it creates and updates things using the common HTTP methods `POST`, `GET`, `PUT`, and `DELETE`. REST is also an excellent fit for high-demand applications where specific queries are made often because of its capacity to cache results. Last but not least, REST is widely used, and businesses that employ a RESTful architecture for public APIs can serve a greater spectrum of developers that are familiar with REST.
 
-However, because SOAP-based approaches feature built-in security safeguards, they may be advantageous for systems subject to stringent API security standards and requirements. As an example, it supports strongly-typed contracts and WS-Security.
+However, because SOAP-based approaches feature built-in security safeguards, they may be advantageous for systems subject to stringent API security standards and requirements. As an example, it supports strongly typed contracts and WS-Security.
 
 ## Advantages of REST
 
