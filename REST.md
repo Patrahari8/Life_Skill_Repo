@@ -1,5 +1,5 @@
 # REST and Its Role in Web Architecture
-![image](https://nordicapis.com/wp-content/uploads/Web-Service-What-is-REST-API-And-How-Does-it-Work-1024x576.png)
+<img src="https://nordicapis.com/wp-content/uploads/Web-Service-What-is-REST-API-And-How-Does-it-Work-1024x576.png" width="1000" height="500" />
 
 
 
